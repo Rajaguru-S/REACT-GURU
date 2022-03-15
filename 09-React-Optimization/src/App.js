@@ -14,7 +14,7 @@ function App() {
   },[toggleEnable])
 
   const toggleEnableHandler = () => {
-    setToggleEnable(true);
+    setToggleEnable(true) ;
   }
 
   return (
